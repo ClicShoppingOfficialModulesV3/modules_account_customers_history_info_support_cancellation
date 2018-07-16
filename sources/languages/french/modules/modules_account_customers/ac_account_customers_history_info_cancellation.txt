@@ -1,0 +1,6 @@
+module_account_customers_history_info_cancellation_title = Historique Info : Souhaitez-vous affcher le support client?
+module_account_customers_history_info_cancellation_description = Affiche un lien permettant d'accéder à une demande de support
+
+module_account_customers_history_info_cancellation_text = Délais de rétractation / Support Commande
+module_account_customers_history_info_cancellation_text_info = Veuillez contacter notre support pour tout problème lié à la commande
+module_account_customers_history_info_cancellation_text_comment = Selon la lois en vigeur, vous avez droit à un certains délais pour vous rétracter de votre commande. Avant de nous contacter, nous vous invitons à lire nos conditions générales concernant les clauses de rétractation

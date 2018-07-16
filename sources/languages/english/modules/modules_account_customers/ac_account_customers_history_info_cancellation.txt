@@ -1,0 +1,7 @@
+
+ module_account_customers_history_info_cancellation_title = History Info : Do you want to display the customer support ?
+ module_account_customers_history_info_cancellation_description = Display the customer support
+
+ module_account_customers_history_info_cancellation_text = Withdrawal delay / order support
+ module_account_customers_history_info_cancellation_text_info = Please, contact our support for all problems linked with your order
+ module_account_customers_history_info_cancellation_text_comment = According to the laws in force , you are entitled to a certain time for you to retract your order. Before contacting us , please read our terms and conditions regarding withdrawal clauses
