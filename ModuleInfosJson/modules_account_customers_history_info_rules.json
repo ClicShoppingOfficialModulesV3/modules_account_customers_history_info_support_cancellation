@@ -1,6 +1,6 @@
 {
   "title":			"modules_account_customers_history_info_support_cancellation",
-  "type":       "boxe",
+ "type":       "modules_account_customers",
   "vendor":			"ClicShopping",
   "is_free":   "yes",
   "is_core":   "no",
