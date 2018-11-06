@@ -40,7 +40,7 @@
 
         $content_width = (int)MODULE_ACCOUNT_CUSTOMERS_HISTORY_INFO_CANCELLATION_CONTENT_WIDTH;
 
-        $link_cancellation = HTML::link(CLICSHOPPING::link('index.php',  'Info&Contact&order_id=' . (int)$_GET['order_id']), CLICSHOPPING::getDef('module_account_customers_history_info_cancellation_text_info'));
+        $link_cancellation = HTML::link(CLICSHOPPING::link(null,  'Info&Contact&order_id=' . (int)$_GET['order_id']), CLICSHOPPING::getDef('module_account_customers_history_info_cancellation_text_info'));
 
         $account_history = '<!-- Start ac_account_customers_history_info_cancellation --> ' . "\n";
 
