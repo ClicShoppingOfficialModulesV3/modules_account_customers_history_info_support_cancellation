@@ -20,6 +20,7 @@
       </div>
     </div>
     <div class="card-block">
+      <div class="separator"></div>
       <div class="card-text">
         <div class="col-md-12">
           <div class="modulesAccountCustomersHistoryInfoCancellationTextComment"><?php echo CLICSHOPPING::getDef('module_account_customers_history_info_cancellation_text_comment'); ?></div>
