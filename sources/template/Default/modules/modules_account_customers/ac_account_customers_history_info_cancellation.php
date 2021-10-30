@@ -15,10 +15,10 @@
 
   class ac_account_customers_history_info_cancellation {
 
-    public $code;
+    public string $code;
     public $group;
-    public string $title;
-    public string $description;
+    public $title;
+    public $description;
     public ?int $sort_order = 0;
     public bool $enabled = false;
 
@@ -38,7 +38,7 @@
     public function execute() {
       $CLICSHOPPING_Template = Registry::get('Template');
 
-      if (isset($_GET['Account']) &&  isset($_GET['HistoryInfo'])) {
+      if (isset($_GET['Account'], $_GET['HistoryInfo'])) {
 
         $content_width = (int)MODULE_ACCOUNT_CUSTOMERS_HISTORY_INFO_CANCELLATION_CONTENT_WIDTH;
 
